@@ -1,0 +1,42 @@
+2023-07-05 03:58:036 INFO - environment: https://www.boredapi.com/api
+2023-07-05 03:58:036 INFO - Random activity
+2023-07-05 03:58:036 INFO - Endpoint: https://www.boredapi.com/api/activity
+2023-07-05 03:58:038 INFO - Random activity retrieved successfully
+2023-07-05 03:58:038 INFO - Response body: 
+{"activity":"Catch up on world news","type":"recreational","participants":1,"price":0.05,"link":"","key":"6596257","accessibility":0.07}
+2023-07-05 03:58:039 INFO - Random activity is Catch up on world news
+2023-07-05 03:58:039 INFO - Get activity by type and by quantity of participants
+2023-07-05 03:58:039 INFO - Endpoint: https://www.boredapi.com/api/activity
+2023-07-05 03:58:040 INFO - Activity for 2 participant(s) and type social retrieved successfully
+2023-07-05 03:58:040 INFO - Response body: 
+{"activity":"Compliment someone","type":"social","participants":2,"price":0,"link":"","key":"9149470","accessibility":0}
+2023-07-05 04:00:019 INFO - environment: https://www.boredapi.com/api
+2023-07-05 04:00:019 INFO - Get activity by type and by quantity of participants
+2023-07-05 04:00:019 INFO - Endpoint: https://www.boredapi.com/api/activity
+2023-07-05 04:00:021 INFO - Activity for 2 participant(s) and type social retrieved successfully
+2023-07-05 04:00:021 INFO - Response body: 
+{"activity":"Play a game of tennis with a friend","type":"social","participants":2,"price":0.1,"link":"","key":"1093640","accessibility":0.4}
+2023-07-05 04:02:029 INFO - environment: https://www.boredapi.com/api
+2023-07-05 04:02:029 INFO - Get activity by type and by quantity of participants
+2023-07-05 04:02:029 INFO - Endpoint: https://www.boredapi.com/api/activity
+2023-07-05 04:02:031 INFO - Activity for 2 participant(s) and type social retrieved successfully
+2023-07-05 04:02:031 INFO - Response body: 
+{"activity":"Go swimming with a friend","type":"social","participants":2,"price":0.1,"link":"","key":"1505028","accessibility":0.1}
+2023-07-05 04:05:024 INFO - environment: https://www.boredapi.com/api
+2023-07-05 04:05:024 INFO - Get activity by type and by quantity of participants
+2023-07-05 04:05:024 INFO - Endpoint: https://www.boredapi.com/api/activity
+2023-07-05 04:05:026 INFO - Activity for 2 participant(s) and type social retrieved successfully
+2023-07-05 04:05:026 INFO - Response body: 
+{"activity":"Text a friend you haven't talked to in a long time","type":"social","participants":2,"price":0.05,"link":"","key":"6081071","accessibility":0.2}
+2023-07-05 04:52:025 INFO - environment: https://www.boredapi.com/api
+2023-07-05 04:52:025 INFO - Get activity by type and by quantity of participants
+2023-07-05 04:52:025 INFO - Endpoint: https://www.boredapi.com/api/activity
+2023-07-05 04:52:028 INFO - Activity for 2 participant(s) and type social retrieved successfully
+2023-07-05 04:52:028 INFO - Response body: 
+{"activity":"Catch up with a friend over a lunch date","type":"social","participants":2,"price":0.2,"link":"","key":"5590133","accessibility":0.15}
+2023-07-05 04:58:008 INFO - environment: https://www.boredapi.com/api
+2023-07-05 04:58:008 INFO - Get activity by type and by quantity of participants
+2023-07-05 04:58:008 INFO - Endpoint: https://www.boredapi.com/api/activity
+2023-07-05 04:58:010 INFO - Activity for 2 participant(s) and type social retrieved successfully
+2023-07-05 04:58:010 INFO - Response body: 
+{"activity":"Play a game of tennis with a friend","type":"social","participants":2,"price":0.1,"link":"","key":"1093640","accessibility":0.4}
